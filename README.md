@@ -2,7 +2,7 @@
 
 **16. Class 11 science at KMC, Kathmandu.** I take things apart to see why they work (a game engine, a payment system, my own attention span), then build the version I wish existed.
 
-[**Portfolio**](https://limitlessneverdies.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/bishowdeep-bhusal-371308445/) · limitlessneverdies369@gmail.com
+[**Portfolio**](https://bishowdeep.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/bishowdeep-bhusal-371308445/) · limitlessneverdies369@gmail.com
 
 ---
 
